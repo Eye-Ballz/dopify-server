@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/aniket/code/dopify-server/build",
+  "command": "/usr/bin/g++ -DASIO_STANDALONE -I/home/aniket/code/dopify-server/Crow/include -g -o CMakeFiles/dopify-server.dir/main.cpp.o -c /home/aniket/code/dopify-server/main.cpp",
+  "file": "/home/aniket/code/dopify-server/main.cpp",
+  "output": "CMakeFiles/dopify-server.dir/main.cpp.o"
+}
+]
