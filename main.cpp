@@ -74,7 +74,7 @@ int main() {
   // Customize CORS
   auto &cors = app.get_middleware<crow::CORSHandler>();
 
-  // clang-format off
+
     cors
       .global()
         .headers("X-Custom-Header", "Upgrade-Insecure-Requests")
